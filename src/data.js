@@ -1,6 +1,3 @@
-/* Changed the data model for filters
-to make managing the state of the selected filters and the
-conditional rendering of hotels easier. */
 export const filterOptions = [
   { display: "Free Cancellation", key: "hasFreeCancellation" },
   { display: "Breakfast Included", key: "includesBreakfast" },
